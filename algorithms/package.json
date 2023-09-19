@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "scripts": {
+    "bgs": "node ./balancedGroupSymbols.js",
+    "snail": "node ./snail.js"
+  }
+}
